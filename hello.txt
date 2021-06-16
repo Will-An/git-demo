@@ -14,3 +14,5 @@ lhc1111111111
 yyyyyyyyyyyyyyyyyyyy
 
 ssh
+
+ssh,local
